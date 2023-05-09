@@ -1,0 +1,32 @@
+h1{
+
+    color:rgb(red, green, blue);
+}
+h2{
+    color: aquamarine;
+}
+p{
+    color: orange;
+    background-color: dimgrey;
+}
+*{
+    color: crimson;
+}
+#h1tag{
+    color: blue;
+}
+*{
+    color: black;
+}
+.bgOpacity{
+    background-color: chartreuse;
+    opacity: o.3;
+}
+.img{
+    height: 500px;
+    width: 500p;
+    border: 1px solid blueviolet;
+    background-image: ;
+
+}
+
